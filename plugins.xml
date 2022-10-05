@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<plugins>
+
+  <pyqgis_plugin name="ImportPhotosAnahuac" version="3.0.4">
+       <description>Descarga una versión modificada de ImportPhotos para la clase de georreferenciación</description>
+       <homepage>http://jdcastillor.github.io</homepage>
+       <qgis_minimum_version>2.99</qgis_minimum_version>
+       <file_name>ImportPhotosAnahuac.zip</file_name>
+       <author_name>JDCR</author_name>
+       <download_url>http://jdcastillor.github.io/ImportPhotosAnahuac.zip</download_url>
+   </pyqgis_plugin>
+
+
+ </plugins>
